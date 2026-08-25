@@ -1,0 +1,4 @@
+torch==2.13.0
+matplotlib==3.11.0
+ipykernel==7.3.0
+notebook
