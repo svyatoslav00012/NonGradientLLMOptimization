@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+train.csv
+runs_all/
+runs_tinystories*/
+.claude/
